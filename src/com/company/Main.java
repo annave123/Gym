@@ -16,7 +16,7 @@ public class Main extends pricing{
         System.out.println("$"+finalPrice + " is your monthly expense");
 
 
-
+  
 
 
     }
